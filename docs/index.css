@@ -1,83 +1,83 @@
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-100.otf);
+    src: url(./fonts/brandon-text/BrandonText-100.otf);
     font-style: normal;
     font-weight: 100;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-100Italic.otf);
+    src: url(./fonts/brandon-text/BrandonText-100Italic.otf);
     font-style: italic;
     font-weight: 100; 
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-300.otf);
+    src: url(./fonts/brandon-text/BrandonText-300.otf);
     font-style: normal;
     font-weight: 300;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-300Italic.otf);
+    src: url(./fonts/brandon-text/BrandonText-300Italic.otf);
     font-style: italic;
     font-weight: 300;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-500.otf);
+    src: url(./fonts/brandon-text/BrandonText-500.otf);
     font-style: normal;
     font-weight: 500;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-500Italic.otf);
+    src: url(./fonts/brandon-text/BrandonText-500Italic.otf);
     font-style: italic;
     font-weight: 500;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-600.otf);
+    src: url(./fonts/brandon-text/BrandonText-600.otf);
     font-style: normal;
     font-weight: 600;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-600Italic.otf);
+    src: url(./fonts/brandon-text/BrandonText-600Italic.otf);
     font-style: italic;
     font-weight: 600;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-700.otf);
+    src: url(./fonts/brandon-text/BrandonText-700.otf);
     font-style: normal;
     font-weight: 700;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-700Italic.otf);
+    src: url(../fonts/brandon-text/BrandonText-700Italic.otf);
     font-style: italic;
     font-weight: 700;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-900.otf);
+    src: url(./fonts/brandon-text/BrandonText-900.otf);
     font-style: normal;
     font-weight: 900;
 }
   
 @font-face {
     font-family: 'BrandonText';
-    src: url(/fonts/brandon-text/BrandonText-900Italic.otf);
+    src: url(./fonts/brandon-text/BrandonText-900Italic.otf);
     font-style: italic;
     font-weight: 900;
 }
